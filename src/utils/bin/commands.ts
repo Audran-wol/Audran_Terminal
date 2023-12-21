@@ -144,9 +144,6 @@ export const emacs = async (args?: string[]): Promise<string> => {
   return `you know what? just use vscode.`;
 };
 
-export const ls = async (args: string[]): Promise<string> => {
-  return `Bro you think we in linux here !`
-}
 
 export const pwd = async (args: string[]): Promise<string> => {
   return `You in my respository send me support for more`
