@@ -5,7 +5,7 @@
 
 set -e -u
 
-eval "git clone 'https://github.com/Cveinnt/LiveTerm.git'"
+eval "git clone 'git@github.com:Audran-wol/Audran_Terminal.git'"
 
 cd LiveTerm
 
@@ -34,20 +34,19 @@ fi
 cat <<-'EOM'
 
 
- █████        ███                       ███████████                                   
-░░███        ░░░                       ░█░░░███░░░█                                   
- ░███        ████  █████ █████  ██████ ░   ░███  ░   ██████  ████████  █████████████  
- ░███       ░░███ ░░███ ░░███  ███░░███    ░███     ███░░███░░███░░███░░███░░███░░███ 
- ░███        ░███  ░███  ░███ ░███████     ░███    ░███████  ░███ ░░░  ░███ ░███ ░███ 
- ░███      █ ░███  ░░███ ███  ░███░░░      ░███    ░███░░░   ░███      ░███ ░███ ░███ 
- ███████████ █████  ░░█████   ░░██████     █████   ░░██████  █████     █████░███ █████
-░░░░░░░░░░░ ░░░░░    ░░░░░     ░░░░░░     ░░░░░     ░░░░░░  ░░░░░     ░░░░░ ░░░ ░░░░░ 
-                                                                                
 
-LiveTerm has been downloaded to the current directory.
+██████╗ ███████╗██╗   ██╗    ██████╗  ██████╗ ██████╗ ████████╗    
+██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝    
+██║  ██║█████╗  ██║   ██║    ██████╔╝██║   ██║██████╔╝   ██║       
+██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██║   ██║██╔══██╗   ██║       
+██████╔╝███████╗ ╚████╔╝     ██║     ╚██████╔╝██║  ██║   ██║       
+╚═════╝ ╚══════╝  ╚═══╝      ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       
+                                                                                                                                                   
+
+Dev Port has been downloaded to the current directory.
 You can start developing it with:
 
-cd LiveTerm && yarn dev
+cd DevPort  && yarn dev
 
 This will open a local port at http://localhost:3000, 
 where you can preview your website. To apply changes, edit:
