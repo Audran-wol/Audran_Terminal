@@ -1,3 +1,3 @@
 export * from './commands';
-export * from './api_commands';
+export { projects as apiProjects, quote, readme, weather } from './api_commands';
 export { default as sumfetch } from './sumfetch';

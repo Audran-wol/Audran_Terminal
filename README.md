@@ -1,19 +1,19 @@
-# 🚀 Audran's Terminal Portfolio
+# Audran's Terminal Portfolio
 
 <div align="center">
   <img src="./demo/terminal.gif" width="700" alt="Terminal Portfolio Demo">
   <p><strong>A modern, interactive terminal-style portfolio experience</strong></p>
 </div>
 
-## ✨ Features
+## Features
 
-- 🎯 **Interactive Terminal Interface**: Experience a unique way to explore my portfolio through familiar terminal commands
-- 🌈 **Modern Design**: Beautiful color scheme with glowing green text effects and smooth animations
-- 🔍 **Easy Navigation**: Intuitive commands to explore projects, skills, and contact information
-- 🎮 **Easter Eggs**: Hidden features and surprises for the curious minds (try to find them!)
-- 🌙 **Responsive**: Works seamlessly on both desktop and mobile devices
+- Interactive Terminal Interface: Experience a unique way to explore my portfolio through familiar terminal commands
+- Modern Design: Beautiful color scheme with glowing green text effects and smooth animations
+- Easy Navigation: Intuitive commands to explore projects, skills, and contact information
+- Easter Eggs: Hidden features and surprises for the curious minds (try to find them!)
+- Responsive: Works seamlessly on both desktop and mobile devices
 
-## 🛠️ Available Commands
+## Available Commands
 
 ```bash
 about        # Learn more about me
@@ -26,14 +26,14 @@ sumfetch     # Display a cool summary
 menu         # Show all available commands
 ```
 
-## 💻 Tech Stack
+## Tech Stack
 
-- **Frontend**: Next.js, TypeScript, TailwindCSS
-- **Styling**: Custom CSS animations, Terminal-style UI
-- **Deployment**: Vercel
-- **Version Control**: Git & GitHub
+- Frontend: Next.js, TypeScript, TailwindCSS
+- Styling: Custom CSS animations, Terminal-style UI
+- Deployment: Vercel
+- Version Control: Git & GitHub
 
-## 🎨 Skills Showcase
+## Skills Showcase
 
 ```plaintext
 Frontend Development    Backend Development    DevOps & Tools
@@ -51,28 +51,39 @@ Database               Other Skills
 └─ Redis              └─ Team Leadership
 ```
 
-## 🌟 Featured Projects
+## Featured Projects
 
-1. **GitBoost** - Enhance your GitHub activity
+1. GitBoost - Enhance your GitHub activity
    - Technologies: Shell, Python, TypeScript, Docker
    - [Visit Project](https://www.gitboost.org/)
 
-2. **Profisfly** - Maximize website earnings
+2. Profisfly - Maximize website earnings
    - Technologies: TypeScript, TensorFlow, WebSocket, Docker
    - [Visit Project](https://profitsfly.com/)
 
-3. **Gec-Informatiq** - Digital agency solutions
+3. Gec-Informatiq - Digital agency solutions
    - Technologies: Next.js, Redux, Apollo, GraphQL, TailwindCSS
    - [Visit Project](https://gec-informatique.com/)
 
-## 🤝 Connect With Me
+## Connect With Me
 
-- 📧 Email: [audranwolfhards@gmail.com](mailto:audranwolfhards@gmail.com)
-- 💼 LinkedIn: [Audran Wolfhards](https://www.linkedin.com/in/audran-wolfhards-7aab3321b/)
-- 🐦 Twitter: [@WolfhardsA](https://twitter.com/WolfhardsA)
-- 🌐 Portfolio: [audrantiedang.com](https://audrantiedang.com/#home)
+- Email: [audranwolfhards@gmail.com](mailto:audranwolfhards@gmail.com)
+- LinkedIn: [Audran Wolfhards](https://www.linkedin.com/in/audran-wolfhards-7aab3321b/)
+- Twitter: [@WolfhardsA](https://twitter.com/WolfhardsA)
+- Portfolio: [audrantiedang.com](https://audrantiedang.com/#home)
 
-## 🚀 Getting Started
+## Support My Work
+
+If you find my projects helpful or interesting, consider supporting me:
+
+- Support: [https://www.buymeacoffee.com/yourusername](https://www.buymeacoffee.com/yourusername)
+- Star this repository
+- Share with others
+- Contribute to the project
+
+Your support helps me create more awesome open-source projects!
+
+## Getting Started
 
 1. Clone the repository
 ```bash
@@ -90,21 +101,21 @@ yarn install
 yarn dev
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest new features
-- 🔀 Submit pull requests
+- Report bugs
+- Suggest new features
+- Submit pull requests
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Audran Wolfhards</p>
+  <p>Made with by Audran Wolfhards</p>
   <p>
     <a href="https://github.com/Audran-wol">GitHub</a> •
     <a href="https://audrantiedang.com/#home">Website</a> •

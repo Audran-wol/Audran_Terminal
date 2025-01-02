@@ -415,7 +415,7 @@ export const pwd = async (args: string[]): Promise<string> => {
 }
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://audran-wol.github.io/Audran/', '_blank'); // ...I'm sorry
+  window.open('https://audrantiedang.com', '_blank'); // ...I'm sorry
   return `Permission denied: with little power comes... no responsibility? `;
 };
 
