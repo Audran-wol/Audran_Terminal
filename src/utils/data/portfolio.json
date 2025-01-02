@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Audran",
+    "website": "https://audrantiedang.com/#home",
+    "github": "https://github.com/Audran-wol",
+    "resume": "https://cv-website-sigma.vercel.app/"
+  },
+  "experience": [
+    {
+      "company": "Gec-Informatiq",
+      "position": "Software Engineer",
+      "duration": "2022 - 2023",
+      "description": "Working on cutting-edge web applications and bringing Optimisitc Digital Solutions to life"
+    }, {
+      "company": "FNT",
+      "position": "Project Manager",
+      "duration": "2023 - 2024",
+      "description": "Leading a team of talented developers to bring innovative solutions to life"
+    }, {
+      "company": "Nextise",
+      "position": "Full Stack Developer",
+      "duration": "2024 - present",
+      "description": "Solving complex problems and delivering exceptional results"
+    }, {
+      "company": "Freelancer",
+      "position": "Full Stack Developer",
+      "duration": "2024 - present",
+      "description": "Offering freelance services in web development and software engineering"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GitBoost",
+      "description": "Enhave your github activity by automating your commits",
+      "tech": ["Shell", "Python", "Typescript", "Docker"],
+      "link": "https://www.gitboost.org/"
+    },
+    {
+      "name": "Profisfly",
+      "description": "Maximize your website earnings+",
+      "tech": ["Typescript", "TensorFlow", "WebSocket", "Docker", "Shell"],
+      "link": "https://profitsfly.com/"
+    },
+    {
+      "name": "Gec-Informatiq",
+      "description": "Digital agency for your business needs",
+      "tech": ["Next.js", "Redux", "Apollo", "GraphQL", "TailwindCSS"],
+      "link": "https://gec-informatique.com/"
+    }
+  ],
+  "contact": {
+    "email": "audranwolfhards@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/audran-wolfhards-7aab3321b/",
+    "X": "@WolfhardsA"
+  },
+  "donate": {
+    "buymeacoffee": "https://www.buymeacoffee.com/yourusername",
+    "github": "https://github.com/Audran-wol"
+  },
+  "skills": {
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "TailwindCSS",
+      "HTML5/CSS3",
+      "Redux",
+      "Vue.js"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "GraphQL",
+      "REST APIs",
+      "WebSocket"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis"
+    ],
+    "devops": [
+      "Docker",
+      "Git",
+      "CI/CD",
+      "AWS",
+      "Shell Scripting"
+    ],
+    "tools": [
+      "VS Code",
+      "Postman",
+      "Figma",
+      "GitHub",
+      "Jira"
+    ],
+    "other": [
+      "Agile/Scrum",
+      "TDD",
+      "System Design",
+      "Problem Solving",
+      "Team Leadership"
+    ]
+  }
+}
