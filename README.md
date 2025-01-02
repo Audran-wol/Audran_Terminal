@@ -107,6 +107,7 @@ Feel free to:
 - Report bugs
 - Suggest new features
 - Submit pull requests
+- For and update at your guess
 
 ## License
 
